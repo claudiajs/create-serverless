@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "create": "claudia create --region us-east-1 --api-module index",
+    "create": "claudia create --region #{region} --api-module index#{policies}",
     "deploy": "claudia update"
   },
   "keywords": [],
