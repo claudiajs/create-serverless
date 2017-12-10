@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "create": "claudia create --api-module index --region us-east-1 --set-env STRIPE_SECRET_KEY=Your-Stripe-Secret-Key",
+    "create": "claudia create --api-module index --region #{region} --set-env STRIPE_SECRET_KEY=Your-Stripe-Secret-Key",
     "update": "claudia update"
   },
   "keywords": [],
