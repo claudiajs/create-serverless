@@ -4,7 +4,7 @@ Reduce overhead, don't waste your time!
 
 ### Serverless API
   
-`create-serverless api --actions crud --endpoints users` 
+`create-serverless api --actions crud --endpoints users --dynamodb` 
 
 Generates a serverless API with: 
   - DynamoDB table `users` 
@@ -20,4 +20,4 @@ Generates a serverless API with:
 `create-serverless payment --stripe` 
   
 Generates a serverless payment micro service, ready for Stripe Checkout integration with: 
-- POST `/creaate-payment`, creates a Stripe charge
+- POST `/create-payment`, creates a Stripe charge
