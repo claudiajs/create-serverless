@@ -29,4 +29,8 @@ Generates a serverless payment micro service, ready for Stripe Checkout integrat
 - POST `/create-payment`, creates a Stripe charge
 
 
-// TODO: AWS SNS integration, AWS Cognito integration
+#### TODO: 
+- multiple endpoints
+- appending new endpoints to existing ones
+- AWS SNS integration, 
+- AWS Cognito integration
