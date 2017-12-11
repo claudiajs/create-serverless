@@ -27,3 +27,6 @@ Just add `--dynamodb` to the api command and it will create a table with the end
   
 Generates a serverless payment micro service, ready for Stripe Checkout integration with: 
 - POST `/create-payment`, creates a Stripe charge
+
+
+// TODO: AWS SNS integration, AWS Cognito integration
