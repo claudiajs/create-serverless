@@ -34,3 +34,5 @@ Generates a serverless payment micro service, ready for Stripe Checkout integrat
 - appending new endpoints to existing ones
 - AWS SNS integration, 
 - AWS Cognito integration
+- Generate API w/ API GW from Swagger file
+- Generate API w/ API GW from API Blueprint file
