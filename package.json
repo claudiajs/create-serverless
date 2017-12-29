@@ -1,7 +1,7 @@
 {
   "name": "create-serverless",
   "version": "1.0.3",
-  "description": "",
+  "description": "Serverless remove overhead, generate boilerplate code for CRUD APIs, payment microservices",
   "main": "index.js",
   "bin": {
     "create-serverless": "./bin/create-serverless.js"
