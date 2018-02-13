@@ -13,6 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.135.0",
-    "claudia-api-builder": "^2.5.1"
+    "claudia-api-builder": "^3.0.1"
   }
 }
